@@ -1,0 +1,38 @@
+baseURL: 'https://www.carriagehillsowners.org/'
+locale: 'en-us'
+title: 'Carriage Hills Homeowners Association'
+theme: 'PaperMod'
+
+params:
+  defaultTheme: 'auto'
+  ShowReadingTime: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  # label:
+  #   icon: "/images/choa_logo_new.png"
+  #   iconHeight: 75
+
+menu:
+  main:
+    - name: "Announcements"
+      url: "/announcements/"
+      weight: 10
+    - name: "Documents"
+      url: "/documents/"
+      weight: 20
+    - name: "Newsletters"
+      url: "/newsletters/"
+      weight: 30
+    - name: "Calendar"
+      url: "/calendar/"
+      weight: 40
+    - name: "Resources"
+      url: "/resources/"
+      weight: 50
+    - name: "Contact Us"
+      url: "/contact/"
+      weight: 60
+
+caches:
+  images:
+    dir: :cacheDir/images
