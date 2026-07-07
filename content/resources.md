@@ -22,4 +22,6 @@ Below are additional resources Owners may find helping when getting established 
 | **Middle School** | *Stallings Island Middle School* | (706) 447-2106 | <https://stallingsislandms.ccboe.net/> |
 | **High School** | *Lakeside High School* | (706) 863-0027 | <https://lakesidehs.ccboe.net/> |
 
+---
+
 [^1]: These are HOA recommended vendors. Owners retain discretion to choose their own vendors for these services.
