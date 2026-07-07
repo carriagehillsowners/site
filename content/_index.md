@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 ![Carriage Hills Logo](/images/choa_logo_new.png)
-Welcome to the official website of the *Carriage Hills Home Owners Association*! This site serves as a resource to keep all Owners within the Association informed on Association happenings, as well as a reference for covenants and bylaws of the Association.
+Welcome to the official website of the *Carriage Hills Owners Association*! This site serves as a resource to keep all Owners within the Association informed on Association happenings, as well as a reference for covenants and bylaws of the Association.
 
 ---
 

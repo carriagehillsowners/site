@@ -1,6 +1,6 @@
 baseURL: 'https://www.carriagehillsowners.org/'
 locale: 'en-us'
-title: 'Carriage Hills Homeowners Association'
+title: 'Carriage Hills Owners Association'
 theme: 'PaperMod'
 
 params:
