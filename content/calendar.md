@@ -6,7 +6,7 @@ title: "Calendar"
 
 ## April
 
-**30th**: Last day to pay dues!
+**30th**: Association dues due date for 2026! This is the LAST day to receive the $20 rebate. After today the full $80 dues will be due PROMPTLY!
 
 ## October
 
