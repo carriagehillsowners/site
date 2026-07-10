@@ -1,5 +1,5 @@
 ---
-name: "Resources"
+title: "Resources"
 description: "Resources for Carriage Hills Owners Association in Martinez, GA"
 ---
 
