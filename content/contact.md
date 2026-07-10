@@ -1,5 +1,6 @@
 ---
 title: "Contact Us"
+description: "Contacts for Carriage Hills Owners Association in Martinez, GA"
 ---
 
 For general HOA concerns please email ***<carriagehills.mail@gmail.com>***

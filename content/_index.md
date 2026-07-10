@@ -1,6 +1,6 @@
 ---
 title: "Home"
-description: "Official web site for Carriage Hills Owners Association in Martinez, Georgia"
+description: "Official web site for Carriage Hills Owners Association in Martinez, GA"
 ---
 # Home
 

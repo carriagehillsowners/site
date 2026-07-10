@@ -1,5 +1,6 @@
 ---
 title: "Documents"
+description: "Documents for Carriage Hills Owners Association in Martinez, GA"
 ---
 
 ### Covenants & Bylaws

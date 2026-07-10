@@ -1,5 +1,6 @@
 ---
 title: "Calendar"
+description: "Calendar for Carriage Hills Owners Association in Martinez, GA"
 ---
 
 # 2026

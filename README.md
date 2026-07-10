@@ -1,0 +1,1 @@
+Hugo + PaperMod static site for [Carriage Hills Owners Association](https://www.carriagehillsowners.org/)

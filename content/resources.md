@@ -1,5 +1,6 @@
 ---
 name: "Resources"
+description: "Resources for Carriage Hills Owners Association in Martinez, GA"
 ---
 
 Columbia County Government provides a wealth of information, that can be found at <https://www.columbiacountyga.gov/>.
