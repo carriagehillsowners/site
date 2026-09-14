@@ -5,14 +5,18 @@ description: "Calendar for Carriage Hills Owners Association in Martinez, GA"
 
 # 2026
 
-## April
+## May
 
-**30th**: Association dues due date for 2026! This is the LAST day to receive the $20 rebate. After today the full $80 dues will be due PROMPTLY!
+**1st**: Any 2026 dues not paid have become past due. Owners should immediately remit the full 2026 dues amount of $80, to avoid assessment of penalties.
 
 ## October
 
-**10th - Time TBD**: Annual Meeting -- New this year: live stream attendance option
+**25th - 1 PM**: Block Party
+
+**25th - 2 PM**: Annual Meeting -- New this year: virtual attendance option
 
 ## November
 
-**1st - Time TBD**: Rain date for Annual Meeting
+**1st - 2 PM**: Rain date for Block Party
+
+**1st - 2 PM**: Rain date for Annual Meeting
