@@ -24,7 +24,7 @@ See [here](#virtual-attendance) for virtual attendance details, or [here](#proxy
 
 ## Proxy Voting
 
-Please complete the proxy form [here](/docs/letters/choa_letter_pres_202512.pdf) and mail, email, or have your proxy voter provide it in-person to the Secretary at the meeting.
+Please complete the proxy form [here](/docs/forms/choa_2026_proxy_form.pdf) and mail, email, or have your proxy voter provide it in-person to the Secretary at the meeting.
 
 ## Virtual Attendance
 
