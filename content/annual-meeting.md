@@ -45,8 +45,10 @@ If you would like an item added to this year's Annual Meeting agenda please emai
     1. Powerline stump grinding quotes/approval
     2. Early pay discount reduction/financial health
     3. Fee schedule adoption
-    4. Social committee
-    5. Members-at-Large elections
+    4. Officially move annual meeting to October
+    5. SB 406 obligations
+    6. Social committee
+    7. Members-at-Large elections
 5. Owner questions/concerns
 6. Adjourn
 
