@@ -33,6 +33,8 @@ and your property address in the body of the email.
 
 ## Agenda
 
+If you would like an item added to this year's Annual Meeting agenda please email the Secretary at <carriagehills.mail@gmail.com> with the email subject "2026 Annual Meeting Agenda Request."
+
 1. Call to Order
 2. Approval of 2025 Meeting Minutes
 3. Old Business
@@ -42,8 +44,9 @@ and your property address in the body of the email.
 4. New Business
     1. Powerline stump grinding quotes/approval
     2. Early pay discount reduction/financial health
-    3. Social committee
-    4. Members-at-Large elections
+    3. Fee schedule adoption
+    4. Social committee
+    5. Members-at-Large elections
 5. Owner questions/concerns
 6. Adjourn
 
