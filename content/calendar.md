@@ -11,6 +11,8 @@ description: "Calendar for Carriage Hills Owners Association in Martinez, GA"
 
 ## October
 
+**24th - 8 AM - 12 PM**: Fall neighborhood yard sale!
+
 **25th - 1 PM**: Block Party
 
 **25th - 2 PM**: Annual Meeting -- New this year: virtual attendance option
