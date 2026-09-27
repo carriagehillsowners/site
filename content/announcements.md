@@ -7,6 +7,12 @@ description: "Announcements for Carriage Hills Owners Association in Martinez, G
 
 # 2026
 
+## September
+
+**27th**
+
+Annual meeting notice postcards were mailed out. All Owners in the Association should be receving their post cards this week, if they have not received them already. If you failed to receive your annual meeting notice postcard then we likely do not have your up-to-date mailing address on file. Please ensure you reach out to the Secretary at <carriagehills.mail@gmail.com> with an email subject of "Owner Contact Update" and ensure you include your current email, phone, and mailing address in the body of the email.
+
 ## July
 
 **5th**
