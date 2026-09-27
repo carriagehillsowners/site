@@ -100,6 +100,10 @@ avoid this, the Board suggests building the cost of commercial lawn care service
 Additionally, if you may be in need of one-time help then Scouts may be able to help you out, to build service hours! Reach out
 to the Board President for details.
 
+## Pet Cleanup
+
+The Board asks you to please ensure you carry a bag with you when walking your pet, to allow cleanup after they have taken care of their business. This ensures we keep a pleasant neighborhood atmosphere and is being respectful of your neighbors.
+
 ## Children At Play
 
 Speeding has been a persistent problem in the neighborhood. We ask that all residents be mindful of the uptick in children and
